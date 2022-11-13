@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome Cooper!" />
         <p className="description">
-          Do you know how to import it to this formattig?\nI could always find a java compiler? \n\n<code>pages/index.js</code>
+          Do you know how to import it to this formattig?
+          I could always find a java compiler?
+    
+          <code>pages/index.js</code>
         </p>
       </main>
 

@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome Cooper!" />
         <p className="description">
           Do you know how to import it to this formattig?
-          I could always find a java compiler (maybr)?
+          I could always find a java compiler (maybe)?
         </p>
         <p className="description">
           <code>pages/index.js</code>

@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome Cooper!" />
         <p className="description">
-          I think I would need to import it to <code>pages/index.js</code>
+          Do you know how to import it to <code>pages/index.js</code> formatting?
         </p>
       </main>
 
